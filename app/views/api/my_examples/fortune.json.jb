@@ -1,4 +1,4 @@
 {
-  fortune: @randon_fortune,
+  fortune: @fortune,
   lottery: @random_numbers,
 }
